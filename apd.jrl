@@ -1,0 +1,25 @@
+\t (00:00:04) apd 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Sat Sep 28 21:47:21 2019
+\t (00:00:04)         Host=DESKTOP-POC8JEU User=Yongmin Pid=16560 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:08) fillin no 
+\e (00:00:08) Failed to open design since it is locked - C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/board_v1.brd
+\t (00:00:08) Starting new design...
+\w (00:00:09) You are opening a BOARD design in apd. Only a limited set of commands will be available.
+\i (00:00:10) fillin confirm
+\i (00:00:10) trapsize 14903
+\i (00:00:10) trapsize 15060
+\i (00:00:10) trapsize 28329
+\i (00:00:10) trapsize 28393
+\i (00:00:11) generaledit 
+\i (00:00:56) xhilite 
+\i (00:00:56) xname_flush 
+\i (00:00:56) done 
+\i (00:00:57) generaledit 
+\i (00:00:57) exit 
+\e (00:00:57) Do you want to save the changes you made to unnamed?
+\i (00:00:58) fillin no 
+\t (00:00:59)     Journal end - Sat Sep 28 21:48:15 2019

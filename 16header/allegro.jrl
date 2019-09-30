@@ -1,0 +1,70 @@
+\t (00:00:06) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:06)     Journal start - Sun Sep 29 16:21:11 2019
+\t (00:00:06)         Host=DESKTOP-POC8JEU User=Yongmin Pid=20192 CPUs=4
+\t (00:00:06) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:06) 
+   (00:00:06) Loading axlcore.cxt 
+\t (00:00:07) Starting new design...
+\i (00:00:08) trapsize 313
+\i (00:00:09) trapsize 316
+\i (00:00:09) trapsize 482
+\i (00:00:10) trapsize 486
+\i (00:00:11) replay builder.scr.txt 
+\i (00:00:11) skill 'load "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/16header/builder.ile" ' 
+   (00:00:11) t
+\i (00:00:11) skill 'changeWorkingDir "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/16header" ' 
+   (00:00:11) t
+\i (00:00:11) skill 'LB_createFootprint "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/16header/67996-416HLF.xml" ' 
+\t (00:00:11) Reading Footprint XML
+\t (00:00:11) Creating padstacks
+\t (00:00:11) Starting new design...
+\i (00:00:11) trapsize 317
+\i (00:00:12) trapsize 320
+\i (00:00:12) trapsize 486
+\i (00:00:12) trapsize 486
+\i (00:00:12) trapsize 48599
+\t (00:00:12) Performing DRC...
+\t (00:00:12) Multithreaded DRC update (4 threads).
+\t (00:00:12) No DRC errors detected.
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 31703
+\i (00:00:13) trapsize 32042
+\i (00:00:13) trapsize 48599
+\i (00:00:13) trapsize 48599
+\t (00:00:13) Opening Design "67996-416HLF.dra"
+\t (00:00:13) Starting new design...
+\i (00:00:13) trapsize 31703
+\i (00:00:14) trapsize 32042
+\i (00:00:14) trapsize 48599
+\i (00:00:14) trapsize 48599
+\i (00:00:14) trapsize 11121
+\t (00:00:14) Creating TextBlocks
+\t (00:00:14) Creating Shapes on Package layers
+\t (00:00:14) Creating Pins
+\t (00:00:14) Creating Vias
+\t (00:00:14) Creating package symbol 'C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/16header/67996-416hlf.psm'.
+\t (00:00:14) Starting Create symbol...
+\t (00:00:15) Symbol Created
+\i (00:00:15) trapsize 1251
+   (00:00:15) Loading cmds.cxt 
+   (00:00:15) Loading skillExt.cxt 
+\t (00:00:15) Opening existing design...
+\i (00:00:15) trapsize 1238
+\i (00:00:16) trapsize 1251
+\i (00:00:16) trapsize 1251
+\d (00:00:16) Design opened: C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/16header/67996-416HLF.dra
+\t (00:00:16) Symbol Saved
+   (00:00:16) t
+\i (00:00:16) scriptmode +i +n 
+\i (00:00:16) step pkg map 
+\i (00:00:16) setwindow form.pkgmap3d 
+\i (00:00:16) FORM pkgmap3d stplist 67996-416HLF.step 
+\i (00:00:17) FORM pkgmap3d rotation_x 0 
+\i (00:00:17) FORM pkgmap3d save_current 
+\i (00:00:17) FORM pkgmap3d done 
+\i (00:00:17) setwindow pcb 
+\i (00:00:17) save 
+\i (00:00:17) fillin yes 
+\t (00:00:17) Symbol '67996-416hlf.psm' created.
+\i (00:00:17) exit 
+\t (00:00:18)     Journal end - Sun Sep 29 16:21:24 2019

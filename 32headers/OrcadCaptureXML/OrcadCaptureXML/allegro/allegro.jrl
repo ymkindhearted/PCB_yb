@@ -1,0 +1,15 @@
+\t (00:00:04) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:04)     Journal start - Mon Sep 30 11:53:21 2019
+\t (00:00:04)         Host=DESKTOP-POC8JEU User=Yongmin Pid=15780 CPUs=4
+\t (00:00:04) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession Yongmin C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\32HEADERS\ORCADCAPTUREXML\ORCADCAPTUREXML\allegro\DOEON_PCBv3.brd
+\t (00:00:04) 
+   (00:00:04) Loading axlcore.cxt 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: C:/USERS/YONGMIN/DOCUMENTS/GITHUB/PCVDESIGN_YB/32HEADERS/ORCADCAPTUREXML/ORCADCAPTUREXML/allegro/DOEON_PCBv3.brd
+\i (00:00:06) trapsize 3130
+\i (00:00:06) trapsize 3163
+\i (00:00:06) trapsize 4816
+\i (00:00:07) trapsize 4860
+\i (00:00:07) generaledit 
+\i (00:03:18) exit 
+\t (00:03:18)     Journal end - Mon Sep 30 11:56:35 2019

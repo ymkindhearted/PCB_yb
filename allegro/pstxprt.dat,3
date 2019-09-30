@@ -1,0 +1,90 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Sep-30-2019 at 11:57:37 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='DOEON_PCB';
+ POST_TIME='Mar  2 2016 00:37:24';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ J1 '67997-212HLF_12PINS_67997-212HL':;
+
+SECTION_NUMBER 1
+ '@DOEON_PCB.SCHEMATIC1(SCH_1):INS473@2019-09-29_02-33-34.67997-212HLF.NORMAL(CHIPS)':
+ C_PATH='@doeon_pcb.schematic1(sch_1):ins473@\2019-09-29_02-33-34\.\67997-212hlf.normal\(chips)',
+ P_PATH='@doeon_pcb.schematic1(sch_1):page1_ins473@\2019-09-29_02-33-34\.\67997-212hlf.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'TSW-116-07-G-D_TSW-116-07-G-D_T':;
+
+SECTION_NUMBER 1
+ '@DOEON_PCB.SCHEMATIC1(SCH_1):INS4578@2019-09-29_20-31-49.TSW-116-07-G-D.NORMAL(CHIPS)':
+ C_PATH='@doeon_pcb.schematic1(sch_1):ins4578@\2019-09-29_20-31-49\.\tsw-116-07-g-d.normal\(chips)',
+ P_PATH='@doeon_pcb.schematic1(sch_1):page1_ins4578@\2019-09-29_20-31-49\.\tsw-116-07-g-d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'TSW-116-07-G-D_TSW-116-07-G-D_T':;
+
+SECTION_NUMBER 1
+ '@DOEON_PCB.SCHEMATIC1(SCH_1):INS4654@2019-09-29_20-31-49.TSW-116-07-G-D.NORMAL(CHIPS)':
+ C_PATH='@doeon_pcb.schematic1(sch_1):ins4654@\2019-09-29_20-31-49\.\tsw-116-07-g-d.normal\(chips)',
+ P_PATH='@doeon_pcb.schematic1(sch_1):page1_ins4654@\2019-09-29_20-31-49\.\tsw-116-07-g-d.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SAMPLE1 'SAMPLE_HOLDER_SAMPLE_MOUNT_SAMP':;
+
+SECTION_NUMBER 1
+ '@DOEON_PCB.SCHEMATIC1(SCH_1):INS590@BNC.SAMPLE_HOLDER.NORMAL(CHIPS)':
+ C_PATH='@doeon_pcb.schematic1(sch_1):ins590@bnc.\sample_holder.normal\(chips)',
+ P_PATH='@doeon_pcb.schematic1(sch_1):page1_ins590@bnc.\sample_holder.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'MAX396EPI_21-0044B_28_MAX396EPI':;
+
+SECTION_NUMBER 1
+ '@DOEON_PCB.SCHEMATIC1(SCH_1):INS280@2019-09-27_03-00-21.MAX396EPI.NORMAL(CHIPS)':
+ C_PATH='@doeon_pcb.schematic1(sch_1):ins280@\2019-09-27_03-00-21\.\max396epi.normal\(chips)',
+ P_PATH='@doeon_pcb.schematic1(sch_1):page1_ins280@\2019-09-27_03-00-21\.\max396epi.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'MAX396EPI_21-0044B_28_MAX396EPI':;
+
+SECTION_NUMBER 1
+ '@DOEON_PCB.SCHEMATIC1(SCH_1):INS139@2019-09-27_03-00-21.MAX396EPI.NORMAL(CHIPS)':
+ C_PATH='@doeon_pcb.schematic1(sch_1):ins139@\2019-09-27_03-00-21\.\max396epi.normal\(chips)',
+ P_PATH='@doeon_pcb.schematic1(sch_1):page1_ins139@\2019-09-27_03-00-21\.\max396epi.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VBI1 'VBI211_BNC_YB_VBI211':;
+
+SECTION_NUMBER 1
+ '@DOEON_PCB.SCHEMATIC1(SCH_1):INS48@BNC.VBI211.NORMAL(CHIPS)':
+ C_PATH='@doeon_pcb.schematic1(sch_1):ins48@bnc.\vbi211.normal\(chips)',
+ P_PATH='@doeon_pcb.schematic1(sch_1):page1_ins48@bnc.\vbi211.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ VBI2 'VBI211_BNC_YB_VBI211':;
+
+SECTION_NUMBER 1
+ '@DOEON_PCB.SCHEMATIC1(SCH_1):INS28@BNC.VBI211.NORMAL(CHIPS)':
+ C_PATH='@doeon_pcb.schematic1(sch_1):ins28@bnc.\vbi211.normal\(chips)',
+ P_PATH='@doeon_pcb.schematic1(sch_1):page1_ins28@bnc.\vbi211.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

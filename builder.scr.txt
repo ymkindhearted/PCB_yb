@@ -1,0 +1,15 @@
+skill load "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/builder.ile" 
+skill changeWorkingDir "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb" 
+skill LB_createFootprint "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/12Pins.xml" 
+skill LB_createFootprint "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/21-0044B_28.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist 21-0044B_28.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

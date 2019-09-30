@@ -1,0 +1,33 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : DOEON_PCBv3.brd                               )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Mon Sep 30 12:00:10 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  SAMPLE1 / SAMPLE_HOLDER_SAMPLE_MOUNT_SAMP / SAMPLE_MOUNT at (22.9832 101.3633)
+         Placed symbol:  U2 / MAX396EPI_21-0044B_28_MAX396EPI / 21-0044B_28 at (45.7354 115.1362)
+         Placed symbol:  U1 / MAX396EPI_21-0044B_28_MAX396EPI / 21-0044B_28 at (62.9566 115.1362)
+         Placed symbol:  J1 / 67997-212HLF_12PINS_67997-212HL / 12PINS at (80.8128 81.1002)
+         Placed symbol:  VBI1 / VBI211_BNC_YB_VBI211 / BNC_YB at (107.4000 86.7832)
+         Placed symbol:  VBI2 / VBI211_BNC_YB_VBI211 / BNC_YB at (12.8632 130.3065)
+
+
+Placed 6 of 6 applicable (6 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+
+
+Placed 0 of 0 applicable (0 total) symbols.
+
+-----------------------------------------------------------------------
+

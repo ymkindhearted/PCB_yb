@@ -1,0 +1,27 @@
+\t (00:00:02) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Sep 27 16:29:02 2019
+\t (00:00:02)         Host=DESKTOP-POC8JEU User=Yongmin Pid=2780 CPUs=4
+\t (00:00:02) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Yongmin\Downloads\UL_MAX396EPI\AllegroV17_2\AllegroV17_2\21-0044B_28.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:02) Opening existing design...
+\d (00:00:02) Design opened: C:/Users/Yongmin/Downloads/UL_MAX396EPI/AllegroV17_2/AllegroV17_2/21-0044B_28.dra
+\i (00:00:03) trapsize 4188
+\i (00:00:03) trapsize 4233
+\i (00:00:03) trapsize 4249
+\i (00:00:03) trapsize 4305
+\i (00:00:03) generaledit 
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 341.122 -651.782
+\i (00:00:05) trapsize 8610
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out -284.694 -651.782
+\i (00:00:05) trapsize 14265
+\i (00:00:06) zoom in 1 
+\i (00:00:06) setwindow pcb
+\i (00:00:06) zoom in 122.075 -452.627
+\i (00:00:06) trapsize 7133
+\i (00:00:10) exit 
+\t (00:00:10)     Journal end - Fri Sep 27 16:29:10 2019

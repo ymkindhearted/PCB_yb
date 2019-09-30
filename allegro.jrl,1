@@ -1,0 +1,15 @@
+\t (00:00:01) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Sun Sep 29 17:27:39 2019
+\t (00:00:01)         Host=DESKTOP-POC8JEU User=Yongmin Pid=22300 CPUs=4
+\t (00:00:01) CmdLine= c:\cadence\spb_17.2\tools\bin\allegro.exe C:\Users\Yongmin\Documents\GitHub\PCVdesign_yb\sample_mount.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+\t (00:00:01) Opening existing design...
+\d (00:00:01) Design opened: C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/sample_mount.dra
+\i (00:00:02) trapsize 1466
+\i (00:00:03) trapsize 1481
+\i (00:00:03) trapsize 1487
+\i (00:00:03) trapsize 1507
+\i (00:00:04) generaledit 
+\i (00:00:07) exit 
+\t (00:00:07)     Journal end - Sun Sep 29 17:27:45 2019

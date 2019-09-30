@@ -1,0 +1,14 @@
+skill load "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/16header/builder.ile" 
+skill changeWorkingDir "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/16header" 
+skill LB_createFootprint "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/16header/67996-416HLF.xml" 
+scriptmode +i +n 
+step pkg map 
+setwindow form.pkgmap3d 
+FORM pkgmap3d stplist 67996-416HLF.step 
+FORM pkgmap3d rotation_x 0 
+FORM pkgmap3d save_current 
+FORM pkgmap3d done 
+setwindow pcb 
+save  
+fillin yes 
+exit 

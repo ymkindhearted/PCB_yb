@@ -1,0 +1,281 @@
+(ExpressProject "Doeon_PCB"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Amplifier.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Arithmetic.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\ATOD.OLB"
+        (Type "Schematic Library"))
+      (File
+         "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\BusDriverTransceiver.olb"
+        (Type "Schematic Library"))
+      (File ".\capsym.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\CAPSYM.OLBlck"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Connector.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Counter.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Discrete.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\DRAM.OLB"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\ElectroMechanical.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\FIFO.OLB"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Filter.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\FPGA.OLB"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Gate.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Latch.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\LineDriverReceiver.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Mechanical.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\MicroController.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\MicroProcessor.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Misc.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Misc2.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Misc3.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\MiscLinear.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\MiscMemory.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\MiscPower.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\MuxDecoder.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\OPAmp.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\PassiveFilter.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\PLD.OLB"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\PROM.OLB"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Regulator.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\ShiftRegister.olb"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\SRAM.OLB"
+        (Type "Schematic Library"))
+      (File "C:\Cadence\SPB_17.2\tools\capture\LIBRARY\Transistor.olb"
+        (Type "Schematic Library"))
+      (File ".\capture_library\bnc.olb"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\yongmin\downloads\ul_max396epi\orcadcapturexml\orcadcapturexml\2019-09-27_03-00-21.olb"
+        (Type "Schematic Library"))
+      (File
+         "c:\users\yongmin\downloads\ul_67997212hlf\orcadcapturexml\orcadcapturexml\2019-09-29_02-33-34.olb"
+        (Type "Schematic Library"))
+      (File ".\16header\capture\2019-09-29_20-14-47.olb"
+        (Type "Schematic Library"))
+      (File
+         ".\32headers\orcadcapturexml\orcadcapturexml\2019-09-29_20-31-49.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80")
+    (DRC_Scope "0")
+    (DRC_Action "0")
+    (DRC_Create_Warnings "FALSE")
+    (DRC_View_Output "FALSE")
+    (DRC_Preserved_Waived "FALSE")
+    (DRC_Run_Electrical_Rules "TRUE")
+    (DRC_Run_Physical_Rules "FALSE")
+    (DRC_Report_File
+       "C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\DOEON_PCB.DRC")
+    (DRC_Check_Ports "FALSE")
+    (DRC_Check_Off-Page_Connectors "FALSE")
+    (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
+    (DRC_SDT_Compatibility "FALSE")
+    (DRC_Report_Off-grid_Objects "FALSE")
+    (DRC_Check_Unconnected_Nets "TRUE")
+    (DRC_Check_for_Misleading_TAP "FALSE")
+    (DRC_Report_Netnames "FALSE")
+    (DRC_Check_Single_Node_Nets "FALSE")
+    (DRC_Run_Electrical_Custom_DRC "FALSE")
+    (DRC_Check_No_Driving_Source "TRUE")
+    (DRC_Check_Duplicate_NetNames "TRUE")
+    (DRC_Check_Floating_Pins "TRUE")
+    (DRC_Check_Physical_Power_Pins_Visibility "TRUE")
+    (DRC_Check_PCB_Footprint_Property "TRUE")
+    (DRC_Check_Normal_Convert_View_Sync "TRUE")
+    (DRC_Check_Incorrect_PinGroup_Assignment "TRUE")
+    (DRC_Check_High_Speed_Props_Syntax "TRUE")
+    (DRC_Check_Missing_Pin_Numbers "TRUE")
+    (DRC_Check_Device_With_No_Pins "TRUE")
+    (DRC_Check_Power_Ground_Short "TRUE")
+    (DRC_Identical_References "TRUE")
+    (DRC_Type_Mismatch "TRUE")
+    (DRC_Visible_Power_pins "FALSE")
+    (DRC_Report_Unused_Part_Packages "TRUE")
+    (DRC_Check_Name_Prop_For_HierBlocks "FALSE")
+    (DRC_Run_Physical_Custom_DRC "FALSE")
+    ("Create Allegro Netlist" "TRUE")
+    ("Allegro Netlist Directory" "allegro")
+    ("View Allegro Netlist Files" "FALSE")
+    ("Allegro Netlist Create DCF File" "FALSE")
+    ("Update Allegro Board" "TRUE")
+    ("Allegro Netlist Output Board File" "allegro\DOEON_PCBv3.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ALLEGRO")
+    ("Allegro Setup Backup Versions" "3")
+    ("Allegro Setup Output Warnings" "TRUE")
+    ("Allegro Setup Ignore Constraints" "FALSE")
+    ("Allegro Setup Part Type Length" "31")
+    ("Allegro Netlist Combine Property String" "PCB Footprint")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE")
+    (Netlist_TAB "0")
+    (PSPICE_Output_File "doeon_pcb-SCHEMATIC1.NET")
+    (PSPICE_View_Output "FALSE")
+    (PSPICE_Subcircuit_Format "FALSE")
+    (PSPICE_Do_DRC_Markers "FALSE")
+    (PSPICE_Net_Name_Pref "TRUE")
+    (PSPICE_Hier_Format "FALSE")
+    (PSPICE_Hier_Descend "FALSE")
+    (PSPICE_Hier_DoNot_Descend "FALSE")
+    (PSPICE_Alt_Template "PSpiceTemplate")
+    (PSPICE_Regenerate_Netlist_Flag "FALSE")
+    (File ".\doeon_pcb.dsn"
+      (Type "Schematic Design")))
+  (Folder "Outputs"
+    (File ".\doeon_pcb.drc"
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat"))
+    (File ".\doeon_pcb-schematic1.net"
+      (Type "Report"))
+    (File ".\32headers\orcadcapturexml\orcadcapturexml\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\32headers\orcadcapturexml\orcadcapturexml\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\32headers\orcadcapturexml\orcadcapturexml\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (TSW-116-07-G-D
+      (FullPartName "TSW-116-07-G-D.Normal")
+      (LibraryName
+         "C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\32HEADERS\ORCADCAPTUREXML\ORCADCAPTUREXML\2019-09-29_20-31-49.OLB")
+      (DeviceIndex "0"))
+    (67996-416HLF
+      (FullPartName "67996-416HLF.Normal")
+      (LibraryName
+         "C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\16HEADER\CAPTURE\2019-09-29_20-14-47.OLB")
+      (DeviceIndex "0"))
+    (sample_holder
+      (FullPartName "sample_holder.Normal")
+      (LibraryName
+         "C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\CAPTURE_LIBRARY\BNC.OLB")
+      (DeviceIndex "0"))
+    (67997-212HLF
+      (FullPartName "67997-212HLF.Normal")
+      (LibraryName
+         "C:\USERS\YONGMIN\DOWNLOADS\UL_67997212HLF\ORCADCAPTUREXML\ORCADCAPTUREXML\2019-09-29_02-33-34.OLB")
+      (DeviceIndex "0"))
+    (MAX396EPI
+      (FullPartName "MAX396EPI.Normal")
+      (LibraryName
+         "C:\USERS\YONGMIN\DOWNLOADS\UL_MAX396EPI\ORCADCAPTUREXML\ORCADCAPTUREXML\2019-09-27_03-00-21.OLB")
+      (DeviceIndex "0"))
+    (VBI211
+      (FullPartName "VBI211.Normal")
+      (LibraryName
+         "C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\CAPTURE_LIBRARY\BNC.OLB")
+      (DeviceIndex "0")))
+  (MPSSessionName "Yongmin")
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\yongmin\documents\github\pcvdesign_yb\doeon_pcb.dsn")
+      (Path "Design Resources"
+         "c:\users\yongmin\documents\github\pcvdesign_yb\doeon_pcb.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Path "Design Resources" "Library"
+         "c:\users\yongmin\documents\github\pcvdesign_yb\capture_library\bnc.olb")
+      (Path "Design Resources" "Library"
+         "c:\users\yongmin\downloads\ul_max396epi\orcadcapturexml\orcadcapturexml\2019-09-27_03-00-21.olb")
+      (Path "Design Resources" "Library"
+         "c:\users\yongmin\downloads\ul_67997212hlf\orcadcapturexml\orcadcapturexml\2019-09-29_02-33-34.olb")
+      (Path "Design Resources" "Library"
+         "c:\users\yongmin\documents\github\pcvdesign_yb\16header\capture\2019-09-29_20-14-47.olb")
+      (Path "Design Resources" "Library"
+         "c:\users\yongmin\documents\github\pcvdesign_yb\32headers\orcadcapturexml\orcadcapturexml\2019-09-29_20-31-49.olb")
+      (Path "Outputs")
+      (Select "Design Resources"
+         "c:\users\yongmin\documents\github\pcvdesign_yb\doeon_pcb.dsn"
+         "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 0 200 0 650"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 156 2409 156 708")
+        (Scroll "-73 262")
+        (Zoom "212")
+        (Occurrence "/"))
+      (Path "C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\DOEON_PCB.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))
+    (Doc
+      (Type "COrPartDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 1933 0 593")
+        (PackageScroll "0 0")
+        (PackageZoom "1")
+        (PartPackage "Part")
+        (Scroll "1205 353")
+        (Zoom "229"))
+      (Path
+         "C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\32HEADERS\ORCADCAPTUREXML\ORCADCAPTUREXML\2019-09-29_20-31-49.OLB")
+      (Package "TSW-116-07-G-D")))
+  (ISPCBBASICLICENSE "false"))

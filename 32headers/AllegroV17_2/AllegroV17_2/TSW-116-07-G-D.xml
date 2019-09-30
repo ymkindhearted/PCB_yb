@@ -1,0 +1,232 @@
+<Footprint name="TSW-116-07-G-D" >
+  <Units type="mils" precision="3" />
+  <Extents minX="-2650" minY="-2550" width="5480" height="3900" />
+  <Padstack name="SX65Y65D45P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="45" width="45" height="45" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="s" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+  <Padstack name="OX65Y65D45P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="45" width="45" height="45" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="s" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+
+  <Padstack name="SX65Y65D45P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="45" width="45" height="45" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="s" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="square" width="65" height="65" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+  <Padstack name="OX65Y65D45P" type="through-hole" > 
+    <Hole plating="plated" >
+      <Drill figure="circle" diameter="45" width="45" height="45" />
+    </Hole>
+    <Symbol figure="Triangle" diameter="40" width="40" height="40" drillChars="s" />
+    <Layers>
+      <Layer name="TOP" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_TOP" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+      <Layer name="BOTTOM" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+      <Layer name="SOLDERMASK_BOTTOM" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+      <Layer name="default_internal" >
+        <Pad shape="circle" width="65" height="65" /> 
+      </Layer>
+    </Layers>
+  </Padstack>
+  <TextBlocks>
+    <TextBlock name="17" width="6.25" height="25" lineSpacing="25" characterSpacing="6.25" /> 
+  </TextBlocks>
+
+  <Pins>
+    <Pin number="1" padName="SX65Y65D45P" originX="0" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="2" padName="OX65Y65D45P" originX="0" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="3" padName="OX65Y65D45P" originX="100" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="4" padName="OX65Y65D45P" originX="100" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="5" padName="OX65Y65D45P" originX="200" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="6" padName="OX65Y65D45P" originX="200" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="7" padName="OX65Y65D45P" originX="300" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="8" padName="OX65Y65D45P" originX="300" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="9" padName="OX65Y65D45P" originX="400" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="10" padName="OX65Y65D45P" originX="400" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="11" padName="OX65Y65D45P" originX="500" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="12" padName="OX65Y65D45P" originX="500" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="13" padName="OX65Y65D45P" originX="600" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="14" padName="OX65Y65D45P" originX="600" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="15" padName="OX65Y65D45P" originX="700" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="16" padName="OX65Y65D45P" originX="700" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="17" padName="OX65Y65D45P" originX="800" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="18" padName="OX65Y65D45P" originX="800" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="19" padName="OX65Y65D45P" originX="900" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="20" padName="OX65Y65D45P" originX="900" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="21" padName="OX65Y65D45P" originX="1000" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="22" padName="OX65Y65D45P" originX="1000" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="23" padName="OX65Y65D45P" originX="1100" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="24" padName="OX65Y65D45P" originX="1100" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="25" padName="OX65Y65D45P" originX="1200" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="26" padName="OX65Y65D45P" originX="1200" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="27" padName="OX65Y65D45P" originX="1300" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="28" padName="OX65Y65D45P" originX="1300" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="29" padName="OX65Y65D45P" originX="1400" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="30" padName="OX65Y65D45P" originX="1400" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="31" padName="OX65Y65D45P" originX="1500" originY="0" rotation="0" isMechanical="no" textBlockName="17" />
+    <Pin number="32" padName="OX65Y65D45P" originX="1500" originY="100" rotation="0" isMechanical="no" textBlockName="17" />
+  </Pins>
+  <Vias>
+  </Vias>
+  <Layers>
+    <Layer name="PACKAGE GEOMETRY/PLACE_BOUND_TOP" packageHeight="330" packageHeightMin="0">
+      <Path lineWidth="6" type="shape" >
+        <Point x="-60" y="160" />
+        <Point x="-60" y="-60" />
+        <Point x="1560" y="-60" />
+        <Point x="1560" y="160" />
+        <Point x="-60" y="160" />
+      </Path>
+    </Layer>
+    <Layer name="MANUFACTURING/NO_PROBE_TOP" packageHeight="330" >
+      <Path lineWidth="6" type="shape" >
+        <Point x="-112.5" y="-112.5" />
+        <Point x="-112.5" y="212.5" />
+        <Point x="1612.5" y="212.5" />
+        <Point x="1612.5" y="-112.5" />
+        <Point x="-112.5" y="-112.5" />
+      </Path>
+    </Layer>
+    <Layer name="REF DES/SILKSCREEN_TOP" packageHeight="330" >
+      <Label layer="REF DES/SILKSCREEN_TOP" textBlock="3" angle="0" x="750" y="25" text="Ref" justify="center" />
+    </Layer>
+    <Layer name="DEVICE TYPE/SILKSCREEN_TOP" packageHeight="330" >
+      <Label layer="DEVICE TYPE/SILKSCREEN_TOP" textBlock="3" angle="0" x="750" y="25" text="Dev" justify="center" />
+    </Layer>
+    <Layer name="USER PART NUMBER/SILKSCREEN_TOP" packageHeight="330" >
+      <Label layer="USER PART NUMBER/SILKSCREEN_TOP" textBlock="3" angle="0" x="750" y="25" text="PN" justify="center" />
+    </Layer>
+    <Layer name="DEVICE TYPE/ASSEMBLY_TOP" packageHeight="330" >
+      <Label layer="DEVICE TYPE/ASSEMBLY_TOP" textBlock="3" angle="0" x="750" y="25" text="DEV" justify="center" />
+    </Layer>
+    <Layer name="COMPONENT VALUE/SILKSCREEN_TOP" packageHeight="330" >
+      <Label layer="COMPONENT VALUE/SILKSCREEN_TOP" textBlock="3" angle="0" x="750" y="25" text="VAL" justify="center" />
+    </Layer>
+    <Layer name="TOLERANCE/SILKSCREEN_TOP" packageHeight="330" >
+      <Label layer="TOLERANCE/SILKSCREEN_TOP" textBlock="3" angle="0" x="750" y="25" text="TOL" justify="center" />
+    </Layer>
+    <Layer name="REF DES/ASSEMBLY_TOP" packageHeight="330" >
+      <Label layer="REF DES/ASSEMBLY_TOP" textBlock="3" angle="0" x="750" y="25" text="Ref" justify="center" />
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="330" >
+      <Circle type="line"  lineWidth="20" originX="0" originY="-83" radius="10" > 
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="330" >
+      <Circle type="line"  lineWidth="0" originX="0" originY="-35" radius="10" > 
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="330" >
+      <Path lineWidth="6" type="line" >
+        <Point x="-55" y="-55" />
+        <Point x="1555" y="-55" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="330" >
+      <Path lineWidth="6" type="line" >
+        <Point x="1555" y="-55" />
+        <Point x="1555" y="155" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="330" >
+      <Path lineWidth="6" type="line" >
+        <Point x="1555" y="155" />
+        <Point x="-55" y="155" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/SILKSCREEN_TOP" packageHeight="330" >
+      <Path lineWidth="6" type="line" >
+        <Point x="-55" y="155" />
+        <Point x="-55" y="-55" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="330" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-50" y="-50" />
+        <Point x="1550" y="-50" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="330" >
+      <Path lineWidth="0" type="line" >
+        <Point x="1550" y="-50" />
+        <Point x="1550" y="150" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="330" >
+      <Path lineWidth="0" type="line" >
+        <Point x="1550" y="150" />
+        <Point x="-50" y="150" />
+      </Path>
+    </Layer>
+    <Layer name="PACKAGE GEOMETRY/ASSEMBLY_TOP" packageHeight="330" >
+      <Path lineWidth="0" type="line" >
+        <Point x="-50" y="150" />
+        <Point x="-50" y="-50" />
+      </Path>
+    </Layer>
+  </Layers>
+</Footprint>

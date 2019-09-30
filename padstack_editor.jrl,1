@@ -1,0 +1,54 @@
+\t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Sun Sep 29 16:55:57 2019
+\t (00:00:00)         Host=DESKTOP-POC8JEU User=Yongmin Pid=15796 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Yongmin\Documents\GitHub\PCVdesign_yb\thru_cir_2mm.pad
+\t (00:00:00) 
+\d (00:00:02) QtSignal GuidedTabsParent PadstackTypes currentRowChanged 6
+\d (00:00:02) QtSignal GuidedTabsParent PadstackTypes itemSelectionChanged "Mechanical Hole"
+\d (00:00:03) QtSignal GuidedTabsParent PadstackTypes itemClicked "Mechanical Hole"
+\d (00:00:04) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
+\d (00:00:05) QtSignal GuidedTabsParent GuidedTabs currentChanged "Secondary Drill"
+\d (00:00:06) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Symbol"
+\d (00:00:08) QtSignal GuidedTabsParent GuidedTabs currentChanged "Drill Offset"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:28) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Thermal Pad"
+\d (00:00:29) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Thermal Pad" "Circle 2.3000" +
+\d (00:00:29) QtSignal 0 3
+\d (00:00:29) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Thermal Pad" "Circle 2.3000" +
+\d (00:00:29) QtSignal 0 3
+\d (00:00:29) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 0 "Thermal Pad"
+\d (00:00:31) QtFillin 
+\d (00:00:32) QtSignal GuidedDesignLayersTab PadShape CurrentIndexChanged None
+\d (00:00:32) QtSignal GuidedDesignLayersTab PadShape activated None
+\d (00:00:32) QtSignal GuidedDesignLayersTab LayersTable cellClicked 3 "Thermal Pad" - 3 3
+\d (00:00:33) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Thermal Pad" None 0 3
+\d (00:00:33) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Thermal Pad" None 0 3
+\d (00:00:33) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 0 "Thermal Pad"
+\d (00:00:34) QtFillin Copy|0
+\d (00:00:34) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Anti Pad"
+\d (00:00:34) QtSignal GuidedDesignLayersTab LayersTable cellClicked 0 "Anti Pad" "Circle 2.3000" +
+\d (00:00:34) QtSignal 0 4
+\d (00:00:34) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 0 "Anti Pad" 1 "Anti Pad" +
+\d (00:00:34) QtSignal 2 "Anti Pad"
+\d (00:00:34) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Anti Pad" "Circle 2.3000" +
+\d (00:00:34) QtSignal 2 4
+\d (00:00:35) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Anti Pad" "Circle 2.3000" +
+\d (00:00:35) QtSignal 2 4
+\d (00:00:35) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 2 "Anti Pad"
+\d (00:00:36) QtFillin Paste|1
+\d (00:00:36) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Thermal Pad"
+\d (00:00:36) QtSignal GuidedDesignLayersTab LayersTable cellClicked 1 "Thermal Pad" "Circle 2.3000" +
+\d (00:00:36) QtSignal 1 3
+\d (00:00:36) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged 1 "Thermal Pad" 2 +
+\d (00:00:36) QtSignal "Thermal Pad"
+\d (00:00:36) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Thermal Pad" "Circle 2.3000" +
+\d (00:00:36) QtSignal 2 3
+\d (00:00:37) QtSignal GuidedDesignLayersTab LayersTable cellClicked 2 "Thermal Pad" "Circle 2.3000" +
+\d (00:00:37) QtSignal 2 3
+\d (00:00:37) QtSignal GuidedDesignLayersTab LayersTable customContextMenuRequest 2 "Thermal Pad"
+\d (00:00:37) QtFillin Paste|1
+\d (00:00:38) QtSignal GuidedDesignLayersTab LayersTable itemSelectionChanged
+\d (00:00:39) QtSignal MainWindow Save triggered
+\d (00:00:41) QtSignal pseCheckBrowser Close clicked
+\d (00:00:41) QtFillin Yes
+\t (00:00:43)     Journal end - Sun Sep 29 16:56:40 2019

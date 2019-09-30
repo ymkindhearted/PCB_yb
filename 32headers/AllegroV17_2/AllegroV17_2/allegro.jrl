@@ -1,0 +1,70 @@
+\t (00:00:10) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Sun Sep 29 17:36:57 2019
+\t (00:00:10)         Host=DESKTOP-POC8JEU User=Yongmin Pid=22440 CPUs=4
+\t (00:00:10) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -s builder.scr.txt
+\t (00:00:10) 
+   (00:00:10) Loading axlcore.cxt 
+\t (00:00:12) Starting new design...
+\i (00:00:12) trapsize 313
+\i (00:00:13) trapsize 316
+\i (00:00:13) trapsize 482
+\i (00:00:13) trapsize 486
+\i (00:00:13) replay builder.scr.txt 
+\i (00:00:13) skill 'load "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/32headers/AllegroV17_2/AllegroV17_2/builder.ile" ' 
+   (00:00:13) t
+\i (00:00:13) skill 'changeWorkingDir "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/32headers/AllegroV17_2/AllegroV17_2" ' 
+   (00:00:13) t
+\i (00:00:13) skill 'LB_createFootprint "C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/32headers/AllegroV17_2/AllegroV17_2/TSW-116-07-G-D.xml" ' 
+\t (00:00:13) Reading Footprint XML
+\t (00:00:13) Creating padstacks
+\t (00:00:13) Starting new design...
+\i (00:00:13) trapsize 317
+\i (00:00:14) trapsize 320
+\i (00:00:14) trapsize 486
+\i (00:00:14) trapsize 486
+\i (00:00:14) trapsize 48599
+\t (00:00:14) Performing DRC...
+\t (00:00:14) Multithreaded DRC update (4 threads).
+\t (00:00:14) No DRC errors detected.
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 31703
+\i (00:00:14) trapsize 32042
+\i (00:00:14) trapsize 48599
+\i (00:00:14) trapsize 48599
+\t (00:00:14) Opening Design "TSW-116-07-G-D.dra"
+\t (00:00:14) Starting new design...
+\i (00:00:14) trapsize 31703
+\i (00:00:15) trapsize 32042
+\i (00:00:15) trapsize 48599
+\i (00:00:15) trapsize 48599
+\i (00:00:15) trapsize 11149
+\t (00:00:15) Creating TextBlocks
+\t (00:00:15) Creating Shapes on Package layers
+\t (00:00:15) Creating Pins
+\t (00:00:15) Creating Vias
+\t (00:00:15) Creating package symbol 'C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/32headers/AllegroV17_2/AllegroV17_2/tsw-116-07-g-d.psm'.
+\t (00:00:15) Starting Create symbol...
+\t (00:00:15) Symbol Created
+\i (00:00:15) trapsize 2632
+   (00:00:15) Loading cmds.cxt 
+   (00:00:15) Loading skillExt.cxt 
+\t (00:00:15) Opening existing design...
+\i (00:00:16) trapsize 2604
+\i (00:00:16) trapsize 2632
+\i (00:00:16) trapsize 2632
+\d (00:00:16) Design opened: C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/32headers/AllegroV17_2/AllegroV17_2/TSW-116-07-G-D.dra
+\t (00:00:16) Symbol Saved
+   (00:00:16) t
+\i (00:00:16) scriptmode +i +n 
+\i (00:00:16) step pkg map 
+\i (00:00:17) setwindow form.pkgmap3d 
+\i (00:00:17) FORM pkgmap3d stplist TSW-116-07-G-D.step 
+\i (00:00:18) FORM pkgmap3d rotation_x 0 
+\i (00:00:18) FORM pkgmap3d save_current 
+\i (00:00:18) FORM pkgmap3d done 
+\i (00:00:18) setwindow pcb 
+\i (00:00:18) save 
+\i (00:00:18) fillin yes 
+\t (00:00:18) Symbol 'tsw-116-07-g-d.psm' created.
+\i (00:00:19) exit 
+\t (00:00:19)     Journal end - Sun Sep 29 17:37:06 2019

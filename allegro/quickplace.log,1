@@ -1,0 +1,45 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    QUICKPLACE LOG                                                   )
+(                                                                     )
+(    Drawing          : DOEON_PCBv2.brd                               )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Sun Sep 29 19:47:42 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+State: Placing on layer TOP
+
+         Placed symbol:  SAMPLE1 / SAMPLE_HOLDER_SAMPLE_MOUNT_SAMP / SAMPLE_MOUNT at (22.9832 101.3633)
+         Placed symbol:  J2 / TSW-116-07-G-D_TSW-116-07-G-D_T / TSW-116-07-G-D at (46.3704 81.2272)
+ERROR:   Cannot place symbol:  J3 / TSW-116-07-G-D_TSW-116-07-G-D_T / TSW-116-07-G-D
+         due to ERROR(SPMHA1-150): Symbol does not fit into the drawing ... reposition the symbol.
+         Placed symbol:  U1 / MAX396EPI_21-0044B_28_MAX396EPI / 21-0044B_28 at (42.9434 158.6595)
+         Placed symbol:  U2 / MAX396EPI_21-0044B_28_MAX396EPI / 21-0044B_28 at (60.1646 158.6595)
+         Placed symbol:  J1 / 67997-212HLF_12PINS_67997-212HL / 12PINS at (78.0208 124.6235)
+         Placed symbol:  VBI1 / VBI211_BNC_YB_VBI211 / BNC_YB at (104.6080 130.3065)
+         Placed symbol:  VBI2 / VBI211_BNC_YB_VBI211 / BNC_YB at (12.8632 168.3557)
+
+
+Placed 7 of 8 applicable (8 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+         Placed symbol:  J3 / TSW-116-07-G-D_TSW-116-07-G-D_T / TSW-116-07-G-D at (16.5904 162.7997)
+
+
+Placed 1 of 1 applicable (1 total) symbols.
+
+-----------------------------------------------------------------------
+
+State: Placing on layer TOP
+
+
+
+Placed 0 of 0 applicable (0 total) symbols.
+
+-----------------------------------------------------------------------
+

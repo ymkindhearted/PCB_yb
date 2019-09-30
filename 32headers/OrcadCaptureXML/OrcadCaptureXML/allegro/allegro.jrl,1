@@ -1,0 +1,277 @@
+\t (00:00:03) allegro 17.2 P028 Windows SPB 64-bit Edition
+\t (00:00:03)     Journal start - Mon Sep 30 11:49:29 2019
+\t (00:00:03)         Host=DESKTOP-POC8JEU User=Yongmin Pid=21640 CPUs=4
+\t (00:00:03) CmdLine= C:\Cadence\SPB_17.2\tools\bin\allegro.exe -mpssession Yongmin C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\32HEADERS\ORCADCAPTUREXML\ORCADCAPTUREXML\allegro\DOEON_PCBv3.brd
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: C:/USERS/YONGMIN/DOCUMENTS/GITHUB/PCVDESIGN_YB/32HEADERS/ORCADCAPTUREXML/ORCADCAPTUREXML/allegro/DOEON_PCBv3.brd
+\i (00:00:04) trapsize 3130
+\i (00:00:05) trapsize 3163
+\i (00:00:05) trapsize 4816
+\i (00:00:06) trapsize 4860
+\i (00:00:07) tab 
+\e (00:00:07) No command active
+\i (00:00:07) generaledit 
+\i (00:00:26) board outline 
+   (00:00:26) Loading floor.cxt 
+   (00:00:26) Loading fputil.cxt 
+\i (00:00:35) setwindow form.fpbdoutline
+\i (00:00:35) FORM fpbdoutline fpboclearance '0.5 mm' 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) pick 0,0 
+\t (00:00:37) last pick:  0.00 0.00
+\i (00:00:44) pick 120,80 
+\t (00:00:44) last pick:  120.00 80.00
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 9.72 29.16
+\i (00:00:48) trapsize 2430
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 38.88 34.02
+\i (00:00:48) trapsize 1215
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 38.88 34.02
+\i (00:00:48) trapsize 607
+\i (00:00:48) zoom in 1 
+\i (00:00:48) setwindow pcb
+\i (00:00:48) zoom in 38.88 34.02
+\i (00:00:48) trapsize 304
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 38.88 34.02
+\i (00:00:49) trapsize 152
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 38.89 34.02
+\i (00:00:49) trapsize 76
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 38.89 34.03
+\i (00:00:49) trapsize 38
+\i (00:00:49) zoom in 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom in 38.89 34.03
+\i (00:00:49) trapsize 19
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 38.89 34.03
+\i (00:00:49) trapsize 38
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 38.88 34.03
+\i (00:00:49) trapsize 76
+\i (00:00:49) zoom out 1 
+\i (00:00:49) setwindow pcb
+\i (00:00:49) zoom out 38.88 34.04
+\i (00:00:49) trapsize 152
+\i (00:00:56) prmed 
+\i (00:00:57) setwindow form.prmedit
+\i (00:00:57) FORM prmedit design  
+\i (00:01:00) FORM prmedit units Millimeter 
+   (00:01:00) Accuracy or unit changes can cause design round-off issues. DRCs and physical changes should be checked.
+\i (00:01:01) fillin confirm
+\e (00:01:01) Change may cause round-off; run dbcheck.
+\i (00:01:02) FORM prmedit done  
+\w (00:01:02) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:01:02) setwindow pcb
+\i (00:01:02) trapsize 386
+\t (00:01:02) Performing DRC...
+\t (00:01:02) Multithreaded DRC update (4 threads).
+\t (00:01:03) No DRC errors detected.
+\i (00:01:03) generaledit 
+\i (00:01:08) board outline 
+\i (00:01:15) setwindow form.fpbdoutline
+\i (00:01:15) FORM fpbdoutline fpboclearance '0.5 mm' 
+\i (00:01:15) FORM fpbdoutline done  
+\i (00:01:15) setwindow pcb
+\i (00:01:15) generaledit 
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 1.8979 1.3120
+\i (00:01:17) trapsize 772
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 1.9289 1.3120
+\i (00:01:17) trapsize 1543
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 3.8579 1.9135
+\i (00:01:17) trapsize 3086
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 7.7158 3.8270
+\i (00:01:17) trapsize 6173
+\i (00:01:17) zoom out 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom out 15.4315 7.6540
+\i (00:01:17) trapsize 12344
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 29.3792 12.8380
+\i (00:01:17) trapsize 6172
+\i (00:01:17) zoom in 1 
+\i (00:01:17) setwindow pcb
+\i (00:01:17) zoom in 216.8875 114.3073
+\i (00:01:17) trapsize 3086
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 115.8503 63.2024
+\i (00:01:18) trapsize 6172
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 115.9738 63.2023
+\i (00:01:18) trapsize 12344
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 0.4938 11.3567
+\i (00:01:18) trapsize 12344
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 6.9128 1.2344
+\i (00:01:18) trapsize 12344
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 6.9128 1.2344
+\i (00:01:18) trapsize 12344
+\i (00:01:18) zoom out 1 
+\i (00:01:18) setwindow pcb
+\i (00:01:18) zoom out 6.9128 1.2344
+\i (00:01:18) trapsize 12344
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 1.7282 1.9751
+\i (00:01:19) trapsize 6172
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 1.2344 1.8517
+\i (00:01:19) trapsize 3086
+\i (00:01:19) zoom out 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom out 1.4813 1.6666
+\i (00:01:19) trapsize 6172
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 1.4814 1.6666
+\i (00:01:20) trapsize 12344
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 1.7282 0.9875
+\i (00:01:20) trapsize 12344
+\i (00:01:20) zoom out 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom out 1.7282 0.9875
+\i (00:01:20) trapsize 12344
+\i (00:01:20) zoom in 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom in 1.2344 0.7407
+\i (00:01:20) trapsize 6172
+\i (00:01:20) zoom in 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom in 1.2344 0.7407
+\i (00:01:20) trapsize 3086
+\i (00:01:20) zoom in 1 
+\i (00:01:20) setwindow pcb
+\i (00:01:20) zoom in 1.2344 0.7408
+\i (00:01:20) trapsize 1543
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 1.2344 0.7408
+\i (00:01:21) trapsize 772
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 1.2345 0.7408
+\i (00:01:21) trapsize 386
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 1.2345 0.7408
+\i (00:01:21) trapsize 193
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 1.2344 0.7409
+\i (00:01:21) trapsize 96
+\i (00:01:24) drag_start grid 3.2442 2.1470
+\i (00:01:25) drag_stop 2.2548 1.1498
+\i (00:01:29) board outline 
+\i (00:01:33) setwindow form.fpbdoutline
+\i (00:01:33) FORM fpbdoutline fpbodelete YES 
+\i (00:01:34) fillin yes 
+   (00:01:34) *WARNING* (axlDeleteObject): Invalid database id argument - dbid:removed
+\i (00:01:41) setwindow pcb
+\i (00:01:41) pick 0,0 
+\t (00:01:41) last pick:  0.0000 0.0000
+\i (00:01:46) pick 120,80 
+\t (00:01:46) last pick:  120.0000 80.0000
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 3.6184 2.2588
+\i (00:01:48) trapsize 193
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 3.0089 2.8276
+\i (00:01:48) trapsize 386
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 5.4932 5.4623
+\i (00:01:48) trapsize 772
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 10.9556 10.8013
+\i (00:01:48) trapsize 1543
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 20.6150 14.7514
+\i (00:01:48) trapsize 3086
+\i (00:01:48) zoom out 1 
+\i (00:01:48) setwindow pcb
+\i (00:01:48) zoom out 41.2299 29.5029
+\i (00:01:48) trapsize 6172
+\i (00:01:49) zoom in 1 
+\i (00:01:49) setwindow pcb
+\i (00:01:49) zoom in 73.3251 38.6376
+\i (00:01:49) trapsize 3086
+\i (00:01:50) setwindow form.fpbdoutline
+\i (00:01:50) FORM fpbdoutline done  
+\i (00:01:51) setwindow pcb
+\i (00:01:51) generaledit 
+\i (00:01:55) quickplace 
+\i (00:01:57) setwindow form.quickplc
+\i (00:01:57) FORM quickplc place  
+\e (00:01:57) Component(s) could not be placed.  See logfile for errors.
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out 56.1666 77.3370
+\i (00:01:59) trapsize 6172
+\i (00:01:59) zoom out 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out 56.1666 116.1598
+\i (00:01:59) trapsize 12344
+\i (00:01:59) zoom out 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out 78.0153 232.3178
+\i (00:01:59) trapsize 12344
+\i (00:01:59) zoom out 1 
+\i (00:01:59) setwindow pcb
+\i (00:01:59) zoom out 78.0153 232.3178
+\i (00:01:59) trapsize 12344
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 17.7756 70.8557
+\i (00:02:01) trapsize 6172
+\i (00:02:01) zoom in 1 
+\i (00:02:01) setwindow pcb
+\i (00:02:01) zoom in 9.3816 48.3893
+\i (00:02:01) trapsize 3086
+\i (00:02:06) setwindow form.quickplc
+\i (00:02:06) FORM quickplc place  
+\e (00:02:06) Component(s) could not be placed.  See logfile for errors.
+\i (00:02:18) FORM quickplc done  
+\i (00:02:18) setwindow pcb
+\i (00:02:18) generaledit 
+\i (00:03:23) exit 
+\e (00:03:24) Do you want to save the changes you made to DOEON_PCBv3.brd?
+\i (00:03:29) fillin no 
+\t (00:03:29)     Journal end - Mon Sep 30 11:52:56 2019
