@@ -258,8 +258,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 2 3 -1 -1 -8 -31 52 2227 52 741")
-        (Scroll "-585 -11")
-        (Zoom "135")
+        (Scroll "1319 0")
+        (Zoom "270")
         (Occurrence "/"))
       (Path
          "C:\USERS\YONGMIN\DOCUMENTS\GITHUB\PCVDESIGN_YB\PCB_YB\DOEON_PCB.DSN")

@@ -5,13 +5,18 @@
 # 
 #            Command Line Parameters
 #            -----------------------
-# Design File Name : C:/USERS/YONGMIN/DOCUMENTS/GITHUB/PCVDESIGN_YB/allegro\DOEON_PCBv3.dsn
+# Design File Name : C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/PCB_yb/allegro\DOEON_PCBv3.dsn
 # Initialization options:
 #   -do pasde.do
-# Status File Name : C:/USERS/YONGMIN/DOCUMENTS/GITHUB/PCVDESIGN_YB/allegro\monitor.sts
+# Status File Name : C:/Users/Yongmin/Documents/GitHub/PCVdesign_yb/PCB_yb/allegro\monitor.sts
 # -nog specified. Graphics not utilized.
+# Use Colormap In Design File.
+#
+#
+#
+#
 # do $/DOEON_PCBv3_rules.do
-rule PCB (width 0.1270)
+rule PCB (width 0.2540)
 rule PCB (clearance 0.1270 (type buried_via_gap))
 rule PCB (clearance 0.1270 (type wire_wire))
 rule PCB (clearance 0.1270 (type wire_smd))
@@ -164,13 +169,13 @@ set bbvia_testvia same_net off
 rule PCB (clearance 0.1270 same_net (type bbvia_bondpad))
 set bbvia_bondpad same_net off
 rule pcb (tjunction on)(junction_type all)
-rule pcb (staggered_via on (min_gap 0.1270))
+rule pcb (staggered_via on (min_gap 0.3000))
 rule pcb (via_at_smd off)
 rule PCB (turn_under_pad off)
 rule layer TOP (restricted_layer_length_factor 1)
 rule layer BOTTOM (restricted_layer_length_factor 1)
 write colormap _notify.std
-# do C:/Users/Yongmin/AppData/Local/Temp/#Taaaaab12604.tmp
+# do C:/Users/Yongmin/AppData/Local/Temp/#Taaaaaj16060.tmp
 unselect all routing
 set route_diagonal 0
 grid wire 0.500000 (direction x) (offset 0.000000)
@@ -198,5 +203,43 @@ rule pcb (trombone_gap -1)
 unprotect selected
 route 25 1
 clean 2
-write routes (changed_only) (reset_changed) C:/Users/Yongmin/AppData/Local/Temp/#Taaaaac12604.tmp
+write routes (changed_only) (reset_changed) C:/Users/Yongmin/AppData/Local/Temp/#Taaaaak16060.tmp
+# do C:/Users/Yongmin/AppData/Local/Temp/#Taaaaam16060.tmp
+unselect all objects
+select net ROW_A3
+unprotect selected
+delete selected
+unprotect selected polygon
+delete selected polygon
+unselect all objects
+read route C:/Users/Yongmin/AppData/Local/Temp/#Taaaaal16060.tmp
+# do C:/Users/Yongmin/AppData/Local/Temp/#Taaaaan16060.tmp
+unselect all routing
+set route_diagonal 0
+grid wire 0.500000 (direction x) (offset 0.000000)
+grid wire 0.500000 (direction y) (offset 0.000000)
+grid via 0.500000 (direction x) (offset 0.000000)
+grid via 0.500000 (direction y) (offset 0.000000)
+protect all wires
+direction TOP horizontal
+select layer TOP
+unprotect layer_wires TOP
+direction BOTTOM vertical
+select layer BOTTOM
+unprotect layer_wires BOTTOM
+cost via -1
+set turbo_stagger off
+limit outside -1
+rule pcb (patterns_allowed  trombone accordion)
+set pattern_stacking on
+rule pcb (sawtooth_amplitude -1 -1)
+rule pcb (sawtooth_gap -1)
+rule pcb (accordion_amplitude -1 -1)
+rule pcb (accordion_gap -1)
+rule pcb (trombone_run_length -1)
+rule pcb (trombone_gap -1)
+unprotect selected
+route 25 1
+clean 2
+write routes (changed_only) (reset_changed) C:/Users/Yongmin/AppData/Local/Temp/#Taaaaao16060.tmp
 quit -c

@@ -1,13 +1,6 @@
 \t (00:00:00) padstack_editor 17.2 P019 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Sun Sep 29 17:00:25 2019
-\t (00:00:00)         Host=DESKTOP-POC8JEU User=Yongmin Pid=20848 CPUs=4
-\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Yongmin\Documents\GitHub\PCVdesign_yb\3mmsquare.pad
+\t (00:00:00)     Journal start - Tue Oct 01 16:36:34 2019
+\t (00:00:00)         Host=DESKTOP-POC8JEU User=Yongmin Pid=23212 CPUs=4
+\t (00:00:00) CmdLine= c:\cadence\spb_17.2\tools\bin\padstack_editor.exe C:\Users\Yongmin\Documents\GitHub\PCVdesign_yb\PCB_yb\thru_cir_0_9mm.pad
 \t (00:00:00) 
-\d (00:00:12) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:13) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
-\d (00:00:16) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
-\d (00:00:19) QtSignal GuidedTabsParent GuidedTabs currentChanged Options
-\d (00:00:21) QtSignal GuidedTabsParent GuidedTabs currentChanged Summary
-\d (00:00:24) QtSignal GuidedTabsParent GuidedTabs currentChanged Drill
-\d (00:00:24) QtSignal GuidedTabsParent GuidedTabs currentChanged Start
-\t (00:00:28)     Journal end - Sun Sep 29 17:00:53 2019
+\t (01:02:35)     Journal end - Tue Oct 01 17:39:09 2019
