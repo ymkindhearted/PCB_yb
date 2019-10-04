@@ -1,0 +1,14 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    DBDOCTOR                                                         )
+(                                                                     )
+(    Drawing          : DOEON_PCBv4.brd                               )
+(    Software Version : 17.2P028                                      )
+(    Date/Time        : Thu Oct 03 16:39:01 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+WARNING Deleted redundant via at (27.9400 27.9400) on net V-.
+
+1 warnings, 0 errors detected, 0 errors could be fixed.
